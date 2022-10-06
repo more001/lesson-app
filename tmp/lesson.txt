@@ -16,4 +16,4 @@ php artisan make:factory TagFactory --model=Tag
 php artisan make:factory CommentFactory --model=Comment
 php artisan make:factory StateFactory --model=State
 
-test data
+test data new
